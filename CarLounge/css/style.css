@@ -111,6 +111,7 @@
 .welcome-item {
     float: left;
     width: 30%;
+    height: 70%;
     background-color: #3399ff;
     text-align: center;
     padding: 60px 15px;
